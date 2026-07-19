@@ -2,7 +2,6 @@ import Image from "next/image";
 export default function Home() {
   const ranking = [
     { name: "ตะวัน", score: 19 },
-    { name: "Any", score: 12 },
     { name: "หมอก", score: 9 },
     { name: "พริก", score: 7 },
     { name: "แป้ง", score: 6 },
