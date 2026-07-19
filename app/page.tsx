@@ -6,7 +6,7 @@ export default function Home() {
     { name: "หมอก", score: 9 },
     { name: "พริก", score: 7 },
     { name: "แป้ง", score: 6 },
-    { name: "ฟิว", score: 1 },
+
   ];
 
   return (
