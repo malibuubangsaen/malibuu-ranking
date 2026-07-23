@@ -1,8 +1,8 @@
 import Image from "next/image";
 export default function Home() {
   const ranking = [
-    { name: "ตะวัน", score: 19 },
-    { name: "หมอก", score: 9 },
+    { name: "ตะวัน", score: 22 },
+    { name: "หมอก", score: 13 },
     { name: "พริก", score: 7 },
     { name: "แป้ง", score: 6 },
 
